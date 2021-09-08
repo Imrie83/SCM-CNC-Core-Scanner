@@ -1,0 +1,16 @@
+#corepath#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD
+#3_panel#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\3 Panel PVC SMC Trim.pgmx
+#4_panel#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\4 Panel PVC SMC Trim.pgmx
+#5_panel#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\5 Panel PVC SMC Trim.pgmx
+#6_panel#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\6 Panel PVC SMC Trim.pgmx
+#flush#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\Flush Trim.pgmx
+#3_panel_ce#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\3 Panel PVC SMC Trim CE.pgmx
+#4_panel_ce#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\4 Panel PVC SMC Trim CE.pgmx
+#5_panel_ce#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\5 Panel PVC SMC Trim CE.pgmx
+#6_panel_ce#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\6 Panel PVC SMC Trim CE.pgmx
+#flush_ce#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\Flush Frim CE.pgmx
+#3_panel_ce_large#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\3 Panel PVC SMC Trim CE Large Core.pgmx
+#4_panel_ce_large#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\4 Panel PVC SMC Trim CE Large Core.pgmx
+#5_panel_ce_large#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\5 Panel PVC SMC Trim CE Large Core.pgmx
+#6_panel_ce_large#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\6 Panel PVC SMC Trim CE Large Core.pgmx
+#flush_ce_large#C:\Program Files\Scm Group\Xilog Plus\Job\Cores FD\Flush Frim CE Large Core.pgmx

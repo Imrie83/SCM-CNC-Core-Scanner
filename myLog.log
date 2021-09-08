@@ -1,0 +1,145 @@
+
+2020-06-15 09:14:45,896 ERROR __main__ 'NoneType' object is not subscriptable
+2020-06-15 09:14:45,896 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-15 09:14:51,029 ERROR __main__ 'NoneType' object is not subscriptable
+2020-06-15 09:14:51,029 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-15 11:38:20,786 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4236}
+2020-06-15 11:38:20,786 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-15 11:47:04,258 ERROR __main__ timed out
+2020-06-15 11:47:05,334 ERROR __main__ timed out
+2020-06-15 11:47:05,334 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-15 12:39:11,659 ERROR __main__ 0
+2020-06-15 13:29:06,302 ERROR __main__ 0
+2020-06-25 11:32:37,994 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 3404}
+2020-06-25 11:32:37,994 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-25 11:36:08,718 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 3404}
+2020-06-25 11:36:08,718 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-25 11:53:34,392 ERROR __main__ list indices must be integers or slices, not Text
+2020-06-25 12:36:01,911 ERROR __main__ 'type' object is not subscriptable
+2020-06-25 12:47:43,354 ERROR __main__ module 'PySimpleGUI' has no attribute 'RELIEF_Ridge'
+2020-06-25 13:14:39,076 ERROR __main__ 1
+2020-06-25 13:14:45,238 ERROR __main__ 1
+2020-06-25 13:15:07,827 ERROR __main__ 1
+2020-06-25 13:15:17,499 ERROR __main__ 1
+2020-06-25 13:15:27,062 ERROR __main__ 1
+2020-06-25 14:04:20,562 ERROR __main__ auto_load() takes 1 positional argument but 4 were given
+2020-06-25 14:04:30,421 ERROR __main__ auto_load() takes 1 positional argument but 4 were given
+2020-06-25 14:04:57,019 ERROR __main__ local variable 'result' referenced before assignment
+2020-06-25 14:04:57,534 ERROR __main__ timed out
+2020-06-25 14:15:17,588 ERROR __main__ timed out
+2020-06-25 14:15:18,665 ERROR __main__ timed out
+2020-06-25 14:15:18,665 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-25 14:23:34,088 ERROR __main__ timed out
+2020-06-25 14:23:35,164 ERROR __main__ timed out
+2020-06-25 14:23:35,164 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-25 14:58:25,783 ERROR __main__ list indices must be integers or slices, not str
+2020-06-25 15:02:59,302 ERROR __main__ list indices must be integers or slices, not type
+2020-06-25 15:03:07,413 ERROR __main__ list indices must be integers or slices, not Text
+2020-06-25 15:03:12,592 ERROR __main__ list indices must be integers or slices, not Text
+2020-06-25 15:20:47,615 ERROR __main__ local variable 'result' referenced before assignment
+2020-06-25 15:20:55,072 ERROR __main__ local variable 'result' referenced before assignment
+2020-06-25 15:28:58,750 ERROR __main__ name 'result' is not defined
+2020-06-26 08:50:36,871 ERROR __main__ name 'result' is not defined
+2020-06-26 08:51:18,321 ERROR __main__ name 'result' is not defined
+2020-06-26 08:51:40,396 ERROR __main__ 0
+2020-06-26 08:52:05,450 ERROR __main__ name 'result' is not defined
+2020-06-26 08:53:16,303 ERROR __main__ name 'result' is not defined
+2020-06-26 09:21:48,837 ERROR __main__ 'NoneType' object is not subscriptable
+2020-06-26 09:21:48,837 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 09:36:21,718 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 3416}
+2020-06-26 09:36:21,719 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 09:37:24,890 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 3416}
+2020-06-26 09:37:24,890 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 09:38:00,958 ERROR __main__ 'NoneType' object is not subscriptable
+2020-06-26 09:38:00,958 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 09:42:22,815 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 3416}
+2020-06-26 09:42:22,815 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 09:50:26,589 ERROR __main__ `)` should be preceeded by `(`
+2020-06-26 09:50:26,589 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 09:50:58,938 ERROR __main__ `)` not found
+2020-06-26 09:50:58,938 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 10:15:06,638 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4860}
+2020-06-26 10:15:06,654 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 10:16:07,209 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4860}
+2020-06-26 10:16:07,209 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-06-26 10:28:36,469 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4860}
+2020-06-26 10:28:36,469 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-07-02 12:37:14,976 ERROR __main__ timed out
+2020-07-02 12:37:21,700 ERROR __main__ timed out
+2020-07-02 12:37:22,776 ERROR __main__ timed out
+2020-07-02 12:37:22,776 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-07-02 12:38:23,639 ERROR __main__ timed out
+2020-07-02 12:38:23,639 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-07-02 13:33:29,386 ERROR __main__ timed out
+2020-07-02 13:33:30,462 ERROR __main__ timed out
+2020-07-02 13:33:30,462 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-07-02 13:34:10,874 ERROR __main__ timed out
+2020-07-02 13:46:54,865 ERROR __main__ timed out
+2020-07-02 13:46:55,941 ERROR __main__ timed out
+2020-07-02 13:46:55,941 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-07-02 13:54:45,894 ERROR __main__ timed out
+2020-07-02 13:54:46,957 ERROR __main__ timed out
+2020-07-02 13:54:46,957 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-07-08 08:34:14,882 ERROR __main__ 'Window' object has no attribute 'Maximise'
+2020-07-08 08:34:28,731 ERROR __main__ 'NoneType' object has no attribute 'read'
+2020-07-08 08:45:19,247 ERROR __main__ __init__() got an unexpected keyword argument 'maximize'
+2020-07-15 13:15:31,630 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 2364}
+2020-07-15 13:15:33,149 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 15:14:56,975 ERROR __main__ timed out
+2020-11-12 15:14:58,051 ERROR __main__ timed out
+2020-11-12 15:15:00,110 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 15:18:27,349 ERROR __main__ timed out
+2020-11-12 15:18:28,442 ERROR __main__ timed out
+2020-11-12 15:18:29,873 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 16:38:53,585 ERROR __main__ ('The SQL contains 0 parameter markers, but 2 parameters were supplied', 'HY000')
+2020-11-12 16:38:57,734 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 16:47:52,291 ERROR __main__ ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'CNCOrderNumber'. (102) (SQLExecDirectW); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2020-11-12 16:47:53,729 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 18:00:18,923 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-12 18:00:20,437 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 20:39:35,533 ERROR __main__ ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'writeToDB'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2020-11-12 20:39:37,459 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 20:40:57,576 ERROR __main__ ('The SQL contains 2 parameter markers, but 1 parameters were supplied', 'HY000')
+2020-11-12 20:40:58,964 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 20:41:35,060 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-12 20:41:36,610 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 21:13:20,092 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-12 21:13:21,582 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 21:14:21,649 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-12 21:14:23,016 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-12 21:15:06,972 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-12 21:15:08,399 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-13 15:11:29,064 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-13 15:11:30,354 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-13 15:25:26,533 ERROR __main__ ('22007', '[22007] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2020-11-13 15:25:27,632 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-25 09:44:11,566 ERROR __main__ timed out
+2020-11-25 09:44:12,666 ERROR __main__ timed out
+2020-11-25 09:44:14,631 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-11-25 10:33:15,463 ERROR __main__ timed out
+2020-11-25 10:33:16,555 ERROR __main__ timed out
+2020-11-25 10:33:18,353 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-12-04 12:49:42,170 ERROR __main__ row index out of range index=9 len=9
+2020-12-04 12:49:43,496 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-12-04 12:58:26,040 ERROR __main__ timed out
+2020-12-04 12:58:27,116 ERROR __main__ timed out
+2020-12-04 12:58:28,364 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-12-04 13:12:00,507 ERROR __main__ timed out
+2020-12-04 13:12:01,583 ERROR __main__ timed out
+2020-12-04 13:12:02,797 ERROR __main__ cannot unpack non-iterable NoneType object
+2020-12-04 14:15:45,319 ERROR __main__ timed out
+2020-12-04 14:15:49,513 ERROR __main__ cannot unpack non-iterable NoneType object
+2021-05-05 10:40:00,459 ERROR __main__ write() argument must be str, not builtin_function_or_method
+2021-05-05 10:40:01,115 ERROR __main__ write() argument must be str, not builtin_function_or_method
+2021-05-05 10:40:01,579 ERROR __main__ write() argument must be str, not builtin_function_or_method
+2021-05-05 10:40:01,851 ERROR __main__ write() argument must be str, not builtin_function_or_method
+2021-05-05 10:53:35,423 ERROR __main__ can only concatenate str (not "bool") to str
+2021-05-05 10:53:36,265 ERROR __main__ can only concatenate str (not "bool") to str
+2021-05-05 10:53:38,013 ERROR __main__ can only concatenate str (not "bool") to str
+2021-05-05 11:18:55,965 ERROR __main__ can only concatenate str (not "bool") to str
+2021-05-05 11:19:16,110 ERROR __main__ can only concatenate str (not "bool") to str
+2021-05-05 11:34:21,504 ERROR __main__ Tuple or struct_time argument required
+2021-05-05 11:34:24,392 ERROR __main__ Tuple or struct_time argument required
+2021-05-05 11:34:25,829 ERROR __main__ Tuple or struct_time argument required
+2021-05-05 11:34:26,687 ERROR __main__ Tuple or struct_time argument required
+2021-05-06 07:48:42,716 ERROR __main__ __init__() missing 1 required positional argument: 'group_id'
